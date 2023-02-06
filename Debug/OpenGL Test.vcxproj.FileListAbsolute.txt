@@ -1,0 +1,3 @@
+C:\Facultate\sem2\CAG\OpenGL Test\Debug\OpenGL Test.exe
+C:\Facultate\sem2\CAG\OpenGL Test\Debug\OpenGL Test.vcxproj.CopyComplete
+C:\Facultate\sem2\CAG\OpenGL Test\Debug\freeglutd.dll
